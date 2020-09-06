@@ -3,14 +3,11 @@
 
 
 
-### Markdown
+### image 1
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
 ![screencapture-file-C-Users-Sampan-Desktop-aj-burin-AdminLTE-3-0-5-pages-gallery-html-2020-09-06-18_05_58](https://user-images.githubusercontent.com/45837589/92325219-042a2e80-f073-11ea-920a-ce07d2526329.png)
 
-```
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
